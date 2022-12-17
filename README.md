@@ -12,6 +12,6 @@ To view the dashboard, you can follow these steps:
 
 4. Select the .pbix file you downloaded from GitHub and click "Open".
 
-The dashboard should now be displayed in Power BI Desktop. You can use the various visualizations and filters to explore the data and analyze the sales performance of Adventure Works.
+5. The dashboard should now be displayed in Power BI Desktop. You can use the various visualizations and filters to explore the data and analyze the sales performance of Adventure Works.
 
 I hope this helps! Let me know if you have any questions.
