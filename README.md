@@ -4,13 +4,13 @@ To view the Power BI dashboard, you will need to open the .pbix file in Power BI
 
 To view the dashboard, you can follow these steps:
 
-Download the .pbix file from GitHub and save it to your computer.
+1. Download the .pbix file from GitHub and save it to your computer.
 
-Install Power BI Desktop from the Microsoft website (https://powerbi.microsoft.com/en-us/desktop/).
+2. Install Power BI Desktop from the Microsoft website (https://powerbi.microsoft.com/en-us/desktop/).
 
-Open Power BI Desktop and select "File" > "Open" from the menu.
+3. Open Power BI Desktop and select "File" > "Open" from the menu.
 
-Select the .pbix file you downloaded from GitHub and click "Open".
+4. Select the .pbix file you downloaded from GitHub and click "Open".
 
 The dashboard should now be displayed in Power BI Desktop. You can use the various visualizations and filters to explore the data and analyze the sales performance of Adventure Works.
 
